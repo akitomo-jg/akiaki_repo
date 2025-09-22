@@ -1,1 +1,1 @@
-print("hello omi!")
+print("hello omi!")"print("’Ç‰ÁƒvƒƒOƒ‰ƒ€")" 
